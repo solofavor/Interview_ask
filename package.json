@@ -1,0 +1,23 @@
+{
+  "name": "auction",
+  "version": "1.0.0",
+  "description": "Action service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solofavor/auction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solofavor/auction/issues"
+  },
+  "homepage": "https://github.com/solofavor/auction#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
